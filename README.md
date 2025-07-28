@@ -1,4 +1,4 @@
-# 🔧 Git LFS Setup Instructions (for Windows Groupmates)
+# 🔧 Git LFS Setup Instructions
 
 This project uses **Git LFS (Large File Storage)** to handle large files such as:
 
